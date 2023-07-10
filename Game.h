@@ -1,5 +1,6 @@
 #pragma once
 #include "Player.h"
+using namespace Players;
 
 class Game {
 	int _max_value;
